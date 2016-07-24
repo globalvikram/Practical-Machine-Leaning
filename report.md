@@ -215,6 +215,7 @@ corrplot(corrPlot, method="color")
 ```
 
 ![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12-1.png) 
+
 2. Decision Tree Visualization
 
 ```r
